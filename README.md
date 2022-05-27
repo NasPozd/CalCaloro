@@ -47,7 +47,7 @@ export FLASK_APP=counter
 flask run
 ```
 
-Then please open [localhost:5003](http://localhost:5003) endpoint in your browser.
+Откройте [localhost:5003](http://localhost:5003)
 
 ### Установка PYPI 
 
